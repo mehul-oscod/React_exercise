@@ -2,10 +2,10 @@
 
 # Sort array in ascending order 
 
-->Without Using Array method to sort
-->response time doesn't matter in logic
-array = 4,2,4,3,1,5
-array = 0, 1, 2, 4, 8,5,8, 4, 2, 1, 0
+* Without Using Array method to sort
+* response time doesn't matter in logic
+* array = 4,2,4,3,1,5
+* array = 0, 1, 2, 4, 8,5,8, 4, 2, 1, 0
 
 
 # Sort comments
