@@ -296,11 +296,16 @@
 ~~~~
 
 ## Which method do you prefer to clone an array, and why?
-* :one: [...arr];
-* :two: arr.slice(0);
-* :three: Array.from(arr);
-* :four: arr.map((x) => x);
-* :five: arr.concat([]);
-* :six: JSON.parse(JSON.stringify(arr));
+* one: [...arr];
+* two: arr.slice(0);
+* three: Array.from(arr);
+* four: arr.map((x) => x);
+* five: arr.concat([]);
+* six: JSON.parse(JSON.stringify(arr));
 
+## Which method do you prefer to flatten an array & why?
+* one: arr.flat();
+* two: [].concat(...arr);
+* three: arr.reduce((acc, val) => acc.concat(val), []);
+    
 
