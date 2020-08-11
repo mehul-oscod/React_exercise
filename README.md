@@ -294,3 +294,13 @@
 
 
 ~~~~
+
+## Which method do you prefer to clone an array, and why?
+:one: [...arr];
+:two: arr.slice(0);
+:three: Array.from(arr);
+:four: arr.map((x) => x);
+:five: arr.concat([]);
+:six: JSON.parse(JSON.stringify(arr));
+
+
