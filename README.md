@@ -311,7 +311,7 @@
 ## Implement Dark and White mode in React 
 * Without Using Library
 
-## Which is Possibly the easiest way to create an array with unique elements in it\
+## Which is Possibly the easiest way to create an array with unique elements in it
 
 values = 😀	😁	🤪 😀 😁
 
